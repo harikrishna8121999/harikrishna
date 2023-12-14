@@ -1,0 +1,67 @@
+Interview prep
+
+
+DSA
+
+1. 150 leetcode questions
+2. Algoexpert questions
+
+Design Patterns
+
+1. SOLID principle - Concept & Coding Channel
+2. Creational, Structural & Behavioural Design Patterns - ref git repo
+
+Java
+
+1. Core java q&A = https://www.interviewbit.com/java-interview-questions/
+2. Core Java & Collections - Java Techie = https://youtu.be/FFfJeb8Ec6Y?si=uxoKmgD4uxDiquFQ
+3. Java 8 - Practice questions from Chatgpt
+
+
+
+Spring Boot
+
+1. Interview q&A = https://www.interviewbit.com/spring-boot-interview-questions/
+2. Spring Security
+3. Hibernat & SpringDat JPA, Annotations
+
+
+JUNIT
+
+1. Practice test case from chatgpt
+2. learn junit, mockito etc.
+
+SQL
+
+1. Basic Interview Question
+2. 50 Practice SQL question from leetcode
+
+Angular 11
+
+1. Questpond Video = https://youtu.be/-jeoyDJDsSM?si=01pDq6hb3M4Flw7V
+
+Docker & Kubernetes
+
+1. learn how to write scripts
+
+Things to prepare in future.
+
+1. AWS - mandatory (asked in all interviews)
+2. Jenkins - CI/CD
+3. Agile 
+4. Message Brokers - Kafka etc
+5. Multithreading - Must have knowledge
+6. Microservices knowledge
+
+
+companies attended
+
+Arcadia - Profile matching failed (was expecting AWS, multithreading and Elsatic search knowledge)
+Turning Point Software Solutions - Selected (didn't release offer letter)
+Societe Generale - Selected (didn't release offer letter)
+Wissen Infotech - Goldmann sachs client - failed DSA
+Sacumen - Selected
+Manhattan associates - failed technical round
+Bottomline technologies - failed technical round
+Betsol - failed technical round
+
